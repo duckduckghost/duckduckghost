@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @duckduckghost
 - 👀 I’m interested in finding some projects that I can do in my spare time to improve my Java
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Java on my Software Development Course
 
 
 <!---
